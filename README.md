@@ -21,7 +21,7 @@ This project demonstrates backend-driven business logic, role-based control, and
 ## 📸 Project Screenshot
 
 <p align="center">
-  <img src="./screenshots/dashboard.png" width="800"/>
+  <img src="dashboard.png" width="800"/>
 </p>
 
 🏗️ Tech Stack
